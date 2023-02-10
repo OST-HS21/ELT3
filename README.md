@@ -6,7 +6,7 @@ Die Abbildungen können entweder einzeln mit einem beliebigen Tool in das Skript
 
 ## ToDo
 
-- [ ] Kapitel 1
-- [ ] Kapitel 2
-- [ ] Kapitel 3
-- [ ] Kapitel 4
+- [x] Kapitel 1
+- [x] Kapitel 2
+- [x] Kapitel 3
+- [x] Kapitel 4
